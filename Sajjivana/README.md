@@ -1,12 +1,24 @@
-# React + Vite
+# Sajjivana
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+Sajjivana is a platform dedicated to supporting skilled artists who create idols, toys, statues, and other handcrafted items but remain largely unrecognized.  
+This project aims to provide these artists with visibility, help showcase their work, and connect them with potential customers.
 
-Currently, two official plugins are available:
+## Features
+- Showcase unique handmade idols, toys, and statues.
+- Easy navigation and search to find artists and their crafts.
+- Responsive and user-friendly interface.
+- Support for artists to display their portfolio.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React (for frontend development)
+- JavaScript / JSX
+- CSS for styling
+- [Add any backend or database if applicable]
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Sajjivana.git
+

@@ -21,8 +21,11 @@ This project aims to provide these artists with visibility, help showcase their 
    ```bash
    git clone https://github.com/yourusername/Sajjivana.git
 2. Navigate to the project folder:
+     ```bash
    cd Sajjivana
 3. Install dependencies:
+     ```bash
    npm install
 4. Start the development server:
+     ```bash
    npm start

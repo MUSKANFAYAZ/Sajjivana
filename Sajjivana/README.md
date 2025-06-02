@@ -1,6 +1,6 @@
-# Sajjivana
+# Sajjivana 
 
-## Project Overview
+## Project Overview 
 Sajjivana is a platform dedicated to supporting skilled artists who create idols, toys, statues, and other handcrafted items but remain largely unrecognized.  
 This project aims to provide these artists with visibility, help showcase their work, and connect them with potential customers.
 
@@ -14,11 +14,15 @@ This project aims to provide these artists with visibility, help showcase their 
 - React (for frontend development)
 - JavaScript / JSX
 - CSS for styling
-- [Add any backend or database if applicable]
 
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Sajjivana.git
-
+2. Navigate to the project folder:
+   cd Sajjivana
+3. Install dependencies:
+   npm install
+4. Start the development server:
+   npm start
